@@ -8,7 +8,7 @@ Being a school student from a middle class family, I know firsthand that paying 
 
 The cost of some important books are very high and the availability at the stores is low. Not to mention, it is very inconvenient for some families to afford such high cost items. 
 
-When conducting the initial research for this study case I found that, Indian parents spend approximately, ₹3,000 - ₹8,000 (and more) per year on books for a junior high school student. I think that this is an enormous amount spent on books only!
+When conducting the initial research for this study case I found that, Indian parents spend approximately, ₹4000 - ₹8,000 (and more) per year on books for a junior high school student. I think that this is an enormous amount spent on books only!
 
 In fact, because of the inexistence of a specialized platform facilitating the acquisition of school books, students are forced to search their books on multiple online platforms or buy them on physical bookstores which more often than not is a complex, expensive, and time-consuming process.
 
