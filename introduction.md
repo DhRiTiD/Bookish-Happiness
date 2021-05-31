@@ -4,7 +4,7 @@ My App is a mobile application concept that intends to solve the real-world-prob
 
 ### THE CONTEXT -
 
-Being a school student from a middle class family, I know firsthand that paying for tuitions, stationery and uniforms is the biggest financial investment parents have to make but unfortunately not the only these, there is also the cost of books!
+Being a school student from a middle class family, I know firsthand that paying for tuitions, stationery and uniforms is the biggest financial investment parents have to make but unfortunately not only these, but, there is also the cost of books!
 
 The cost of some important books are very high and the availability at the stores is low. Not to mention, it is very inconvenient for some families to afford such high cost items. 
 
