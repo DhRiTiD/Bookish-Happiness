@@ -10,10 +10,10 @@ This app will allow you to donate your old books which are no longer of your use
 
 The donated books will be marked as 'available' on the app and will be filtered through class, subject, publication, condition, etc.
 
-Thus, this app will help us as students develop enducationally and financially.
+Thus, this app will help the students develop educationally and financially.
 
 Here, my motive is to help in the development and education of the students.
-Growing this app will serve as a mode for donation for uniforms, stationary and other essentials that can be donated for those in need and will help the youth plan a good future for them and the country :)
+Subsequently, this app will serve as a mode of donation for uniforms, stationary and other essentials that can be donated for those in need and will help the youth plan a good future for them and the country :)
 
 I hope this app may grow and serve the people and our India!
 
@@ -28,3 +28,6 @@ Dhriti Dhall,
 Blue Hat Coder at WHJR
 purpose : silicon valley challenge 2021
 ....
+
+
+
