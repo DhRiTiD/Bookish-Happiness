@@ -32,7 +32,7 @@
 - I give the books to the juniors.
 - I sell them online or in second-hand bookstores.
 
-### **Summary of 'Problem'** - 
+### **Summary of 'The Problems'** - 
 - The books are not affordable.
 - There is no cheaper and faster way to buy school books.
 - Selling books is complicated and time-consuming.
