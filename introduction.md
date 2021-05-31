@@ -1,11 +1,11 @@
 # <u>INTRODUCTION</u> -
 
-My Application 
-It intends to solve the real-world-problems experienced when researching and selling school/university books and textbooks. The app offers school students the opportunity donate and/or receive second-hand books using a peer-to-peer app.
+My Application helps solve the problem of financial development of both students' families and our country, India. This app helps students donate their old books, that are no longer of their use and help the students who cannot afford these books.It intends to solve the real-world-problems experienced when researching and selling school/university books and textbooks. The app offers school students the opportunity donate and/or receive second-hand books using a peer-to-peer app.
+High costs of course books and uniforms is one of the main reasons due to which ill-literate parents from many small cities withdraw their children from schools, just because they cannot afford the expensive books and supplies for their children, who then end up doing child labor for money. Thus, this app will encourage children and their parents to get educated and hence, The Youth of the country and the country itself will develop more and more everyday!
 
 ### THE CONTEXT -
 
-Being a school student from a middle class family, I know firsthand that paying for tuitions, stationery and uniforms is the biggest financial investment parents have to make but unfortunately not only these, but, there is also the cost of books!
+Being a school student from a middle class family, I know firsthand that paying for tuitions, stationery and uniforms is the biggest financial investment parents have to make, but unfortunately not the only these, there is also the cost of books!
 
 The cost of some important books are very high and the availability at the stores is low. Not to mention, it is very inconvenient for some families to afford such high cost items. 
 
@@ -19,5 +19,4 @@ School books represent a big financial investment to the parents/guardians, ther
 
 #### Brief Solution
 
-Create a web/mobile application prototype, that can solve the problem of searching, donating and selling books in a **convenient** and **less laborious** way, by allowing the users to donate the second-hand books for reuse by the students who cannot afford to pay amounts for the course per year. This will help the development of the financial status of the families of each student along with that of our country, India.
-
+Create a web/mobile application prototype, that can solve the problem of searching, donating and receiving books in a **convenient** and **less laborious** way, by allowing the users to donate the second-hand books for reuse by the students who cannot afford to pay amounts for the course per year. This will help solve the problem of financial status and illitracy in our country, India.
