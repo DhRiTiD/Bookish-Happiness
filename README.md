@@ -1,2 +1,6 @@
 # Bookish-Happiness
-Idea of an app that would help our country develop by 
+Idea for the SILICON VALLEY CHALLENGE WHJR 2021
+
+
+ORIGINAL
+Dhriti Dhall
