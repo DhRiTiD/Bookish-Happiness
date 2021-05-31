@@ -3,7 +3,7 @@
 **~Buying books from online retailers :**
 
 - I only do this when I can't find the required books at the local bookstore.
-- I do this because it is **faster** and timesaving, than goin to the market.
+- I do this because it is **faster** and timesaving, than going to the market.
 - The books are not always the proper edition.
 - The shipping fee is expensive.
 
