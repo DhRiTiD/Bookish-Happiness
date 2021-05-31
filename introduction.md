@@ -1,6 +1,7 @@
 # <u>INTRODUCTION</u> -
 
-My App is a mobile application concept that intends to solve the real-world-problems experienced when researching and selling school/university books and textbooks. The app offers school students the opportunity to buy and donate their books using a peer-to-peer app.
+My Application 
+It intends to solve the real-world-problems experienced when researching and selling school/university books and textbooks. The app offers school students the opportunity donate and/or receive second-hand books using a peer-to-peer app.
 
 ### THE CONTEXT -
 
