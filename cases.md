@@ -1,25 +1,25 @@
 ### <u>*Detailed Cases*</u> -
 
-**~Buying books from online retailers `why?` :**
+**~Buying books from online retailers :**
 
 - I only do this when I can't find the required books at the local bookstore.
 - I do this because it is **faster** and timesaving, than goin to the market.
 - The books are not always the proper edition.
 - The shipping fee is expensive.
 
-**~Buying books from bookstores `why?` :**
+**~Buying books from bookstores :**
 
 - The store is near so it is faster.
 - It has the required book edition though in less quantity.
 - Mostly the most important books are sold-out early and ultimately, we have to order online.
 
-**~Borrowing/sharing books from classmates `why?` :**
+**~Borrowing/sharing books from classmates :**
 
 - I've borrowed books, but have not got them back.
 - I'm new here and don't know many people.
 - Its not easy to find a classmate who is ready to share the book we need.
 
-**~Getting online copies `why?` :**
+**~Getting online copies :**
 
 - I can't highlight the important lines.
 - A lot of times, you have to pay for the online copies.
