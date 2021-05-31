@@ -32,3 +32,9 @@
 - I give the books to the juniors.
 - I sell them online or in second-hand bookstores.
 
+### ** Summary of 'Problem' ** - 
+- The books are not affordable.
+- There is no cheaper and faster way to buy school books.
+- Selling books is complicated and time-consuming.
+- Its not easy to borrow the required books from classmates and they often misuse them or misplace them.
+- Buying online is not cheaper than buying in bookstores due to the high shipping charges.
