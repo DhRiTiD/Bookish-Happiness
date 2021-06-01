@@ -4,6 +4,7 @@
 
 ## **HOW DOES IT WORK?**
 
+
 My app will offer opportunities to students / learners and less privileged people of society to find and collect books from the hub of the respective school or any place they find and see that their required book resource is availble, thus making study easier for learners/students/children who sometimes cannot afford books due to high costs or non availability. 
 
 This app will allow to donat old books or other related material which is no longer of our use, but can help someone in need. The books donated must be under the certain conditions, such as not more than 2-3 years old, 3 images for description are mandatory with small 160 chars description/title/city/address/name of donator, and more as you can see in the slides of '1.5.jpg/PROTOTYPE '
@@ -20,8 +21,12 @@ Growing this app  in future by adding new modules/features will serve as a mode 
 
 I hope this app may grow and serve the people as this above plan.  
 
+
  
 Dhriti Dhall,
+
 Blue Hat Coder at WHJR
+
 Class 9th, KCM School
+
 Moradabad. 
